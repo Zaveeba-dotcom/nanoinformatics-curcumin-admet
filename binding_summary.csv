@@ -1,0 +1,5 @@
+Compound_Name,SMILES,Target_Receptor,PDB_ID,Binding_Affinity_kcal_mol,ProTox_Toxicity_Class,Predicted_LD50_mg_kg,Hepatotoxicity,Carcinogenicity,Mutagenicity,Cytotoxicity
+Curcumin,O=C(C=Cc1ccc(O)c(OC)c1)CC(=O)C=Cc2ccc(O)c(OC)c2,EGFR,1M17,-8.2,Class IV,2000,Active,Inactive,Inactive,Inactive
+Aspirin,CC(=O)Oc1ccccc1C(=O)O,COX-2,6COX,-6.1,Class IV,1100,Inactive,Inactive,Inactive,Inactive
+Quercetin,O=C1C(O)=C(c2ccc(O)c(O)c2)Oc3cc(O)cc(O)c13,TNF-alpha,2AZ5,-7.8,Class III,159,Inactive,Inactive,Inactive,Inactive
+Resveratrol,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,SIRT1,4ZZJ,-7.4,Class IV,3000,Inactive,Inactive,Inactive,Inactive
