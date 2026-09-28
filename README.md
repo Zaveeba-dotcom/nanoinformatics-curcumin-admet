@@ -79,8 +79,8 @@ nanoinformatics-curcumin-admet/
 ---
 📊 Results Architecture
 Artifact	Purpose
-`curcumin_2d_structure.png`	Chemical structure representation
-`curcumin_3d_model.png`	Three-dimensional molecular representation
+`MolView.(structural formula).png`	Chemical structure representation
+`Molview (Model).png`	Three-dimensional molecular representation
 `ligand_curcumin.sdf`	Machine-readable molecular coordinates
 `ProTox-3.0_Report.pdf`	Complete toxicity prediction output
 `binding_summary.csv`	Structured docking and toxicity summary
